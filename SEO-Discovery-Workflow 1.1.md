@@ -236,6 +236,8 @@ Für jede Wettbewerberseite identische Regeln wie bei Handtmann:
 |--------|------|----------|-----|---------|--------|--------|-----------|-------------|------------------------|------------------------|---------------------------|
 | de.processing.handtmann.com | DE | DE | /anwendungen/convenience-feinkost | Anwendung | Convenience & Feinkost | Herstellung und Verarbeitung von Convenience- und Feinkostprodukten | Feinkost-Herstellungsanlagen | Convenience-Produktion automatisieren • Feinkost-Abfülltechnik | marel.com • multivac.com • vemag.de | convenience processing equipment | forming solutions • co-extrusion systems |
 
+---
+
 # 10. ERGEBNIS (Pflicht)
 Der Agent liefert:
 
