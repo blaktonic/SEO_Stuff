@@ -239,6 +239,7 @@ Für jede Wettbewerberseite identische Regeln wie bei Handtmann:
 ---
 
 # 10. ERGEBNIS (Pflicht)
+
 Der Agent liefert:
 
 vollständige Keyword-Landschaft
