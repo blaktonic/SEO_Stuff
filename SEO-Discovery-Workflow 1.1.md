@@ -235,7 +235,8 @@ Für jede Wettbewerberseite identische Regeln wie bei Handtmann:
 | Domain | Land | Sprache | URL | Intent | Titel | Thema | Haupt-KW | Neben-KWs | Wettbewerber (Top 3) | Wettbewerb Haupt-KW | Wettbewerb Neben-KWs |
 |--------|------|----------|-----|---------|--------|--------|-----------|-------------|------------------------|------------------------|---------------------------|
 | de.processing.handtmann.com | DE | DE | /anwendungen/convenience-feinkost | Anwendung | Convenience & Feinkost | Herstellung und Verarbeitung von Convenience- und Feinkostprodukten | Feinkost-Herstellungsanlagen | Convenience-Produktion automatisieren • Feinkost-Abfülltechnik | marel.com • multivac.com • vemag.de | convenience processing equipment | forming solutions • co-extrusion systems |
-10. ERGEBNIS (Pflicht)
+
+# 10. ERGEBNIS (Pflicht)
 Der Agent liefert:
 
 vollständige Keyword-Landschaft
