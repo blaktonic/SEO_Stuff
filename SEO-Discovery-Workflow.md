@@ -117,6 +117,7 @@ Regeln:
 - Hoher Suchintent (transactional oder informational)  
 - Kein Markenbegriff  
 - Muss den tatsächlichen Fokus der Seite treffen
+- Nicht einfach nur den Title-Tag als Haupt-Keyword übernehmen, sondern individuell recherchieren, was für den Inhalt der Seite als Haupt-Keyword Sinn ergibt
 
 ---
 
@@ -156,7 +157,7 @@ Für jede Wettbewerberseite:
 - Gleiches Verfahren wie bei Handtmann  
 - 1 Hauptkeyword  
 - 2–3 Nebenkeywords  
-- Nur Keywords verwenden, die mehrfach oder besonders prominent auftreten  
+- Nur Keywords verwenden, die mehrfach über verschiedene Wettbewerber oder besonders prominent auftreten  
 - Keine Brandbegriffe
 
 ---
@@ -177,3 +178,5 @@ Keyword-Cluster pro Land und pro Sprache
 Wettbewerberanalyse pro Unterseite
 
 Eine saubere Markdown-Tabelle zur Weiterverarbeitung
+
+Zusätzlich eine sauber konvertierte .csv-Datei
